@@ -77,13 +77,13 @@
     },
     {
       "label": "Android客户端下载地址",
-      "placeholder": "请输入下载地址",
+      "placeholder": "http://xianyu.blog/app/世界可及_.apk",
       "field_name": "client_android",
       "field_type": "input"
     },
     {
       "label": "Windows客户端下载地址",
-      "placeholder": "请输入下载地址",
+      "placeholder": "https://xianyu.blog/app/%E4%B8%96%E7%95%8C%E5%8F%AF%E5%8F%8A.exe",
       "field_name": "client_windows",
       "field_type": "input"
     },
